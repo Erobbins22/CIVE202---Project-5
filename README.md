@@ -5,7 +5,7 @@
 
 
 ## Repository Structure 
--[AutoBMD Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_Final Code.ipynb): Jupyter Notebook containing all four modules - Gradation, Volumetrics, IDEAL-CT, and HWTT analysis. 
+-[AutoBMD Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_FinalCode.ipynb): Jupyter Notebook containing all four modules - Gradation, Volumetrics, IDEAL-CT, and HWTT analysis. 
 
 -[AutoBMD Data](AutoBMD.xlsx): Source Excel file containing all raw input data across tabs(Gradation, Volumetrics, IDEAL-CT, HWTT).
 
