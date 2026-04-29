@@ -5,7 +5,8 @@
 
 
 ## Repository Structure 
--[AutoBMD Code](CIVE202_Sprin2026_GroupGeost-02-01_Project5_Final Code.ipynb): Jupyter Notebook containing all four modulues - Gradation, Volumetrics, IDEAL-CT and HWTT analysis. 
+-[AutoBMD Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_Final Code.ipynb): Jupyter Notebook containing all four modulues - Gradation, Volumetrics, IDEAL-CT and HWTT analysis. 
+
 -[AutoBMD Data](AutoBMD.xlsx): Source Excel file containing all raw input data across tabs(Gradation, Volumetrics, IDEAL-CT, HWTT).
 
 All exported plots are listed below:
@@ -43,15 +44,15 @@ Reads cycle-count rut depth data from the HWTT tab. Detects the Stripping Inflec
 
 ## Project Goals 
 The project goal is to transition the Nebraska Department of Transportation’s asphalt mixture process to a balanced mix design. Basically, automating their Excel process, making it so that the engineers don’t have to manually take data from their spreadsheets and have excel to the calculations, but take their data, input it into Python, and then have Python do their calculations.
-- [Individual Gantt Chart](CIVE202_Sprin2026_GroupGeost-02-01_Project5_Ganttchart.xlsx)
+- [Individual Gantt Chart](CIVE202_Spring2026_GroupGeost-02-01_Project5_Ganttchart.xlsx)
 - [Engineering Timesheet]
 
 ## Project Documentation 
 Links: 
-- [Scope of Work](CIVE202_Sprin2026_GroupGeost-02-01_Project5_SOW.docx)
+- [Scope of Work](CIVE202_Spring2026_GroupGeost-02-01_Project5_SOW.docx)
 - [Annotated Code Document]
 - [Written Report]
-- [Flow Chart](CIVE202_Sprin2026_GroupGeost-02-01_Project5_Flowchart.pdf)
+- [Flow Chart](CIVE202_Spring2026_GroupGeost-02-01_Project5_Flowchart.pdf)
 
 
 
