@@ -5,14 +5,14 @@
 
 
 ## Repository Structure 
--[AutoBMD Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_FinalCode.ipynb): Jupyter Notebook containing all four modules - Gradation, Volumetrics, IDEAL-CT, and HWTT analysis. 
+-[AutoBMD Code](CIVE202_Spring2026_GroupGeost-02-01_Project5_Final_Code.ipynb): Jupyter Notebook containing all four modules - Gradation, Volumetrics, IDEAL-CT, and HWTT analysis. 
 
 -[AutoBMD Data](AutoBMD.xlsx): Source Excel file containing all raw input data across tabs(Gradation, Volumetrics, IDEAL-CT, HWTT).
 
 All exported plots are listed below:
--[Gradation Curve]
+-[Gradation Curve](Aggregate_Gradation_Combined.png)
 -[Volumetrics Summary Table]
--[IDEAL-CT Load vs. Displacement]
+-[IDEAL-CT Load vs. Displacement](IDEALCT_Load_Displacement.png)
 -[ Rut Depth Plot]
 
 ## User Guide 
@@ -53,6 +53,7 @@ Links:
 - [Annotated Code Document](CIVE202_Spring2026_GroupGeost-02-01_Project5_ACD.docx)
 - [Written Report]
 - [Flow Chart](CIVE202_Spring2026_GroupGeost-02-01_Project5_Flowchart.pdf)
+- [User Manual](CIVE202_Spring2026_GroupGeost-02-01_Project5_UserManual.docx)
 
 
 
