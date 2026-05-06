@@ -11,9 +11,9 @@
 
 All exported plots are listed below:
 -[Gradation Curve](Aggregate_Gradation_Combined.png)
--[Volumetrics Summary Table]
+-[Volumetrics Summary Table](Volumetrics_Summary(1).xlsx)
 -[IDEAL-CT Load vs. Displacement](IDEALCT_Load_Displacement.png)
--[ Rut Depth Plot]
+-[ Rut Depth Plot](IDEAL_Results(1).xlsx)
 
 ## User Guide 
 ### 1. Program Overview
