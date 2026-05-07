@@ -45,7 +45,7 @@ Reads cycle-count rut depth data from the HWTT tab. Detects the Stripping Inflec
 ## Project Goals 
 The project goal is to transition the Nebraska Department of Transportation’s asphalt mixture process to a balanced mix design. Basically, automating their Excel process, making it so that the engineers don’t have to manually take data from their spreadsheets and have Excel do the calculations, but take their data, input it into Python, and then have Python do their calculations.
 - [Individual Gantt Chart](CIVE202_Spring2026_GroupGeost-02-01_Project5_Ganttchart.xlsx)
-- [Engineering Timesheet]
+- [Engineering Timesheet](CIVE202_Spring2026_GroupGeost-02-01_Project5_Timesheet.xlsx)
 
 ## Project Documentation 
 Links: 
